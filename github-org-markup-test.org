@@ -1,0 +1,16 @@
+
+* heading 1
+** subheading 1
+
+#+NAME: perl-code
+#+BEGIN_SRC perl
+  my $foo = "bar"
+#+END_SRC
+
+#+BEGIN_SRC sh
+echo "foo"
+#+END_SRC
+
+* heading 2
+** in line source
+: echo $PATH
