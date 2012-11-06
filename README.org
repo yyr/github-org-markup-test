@@ -4,7 +4,7 @@
 
 #+NAME: perl-code
 #+BEGIN_SRC perl
-  my $foo = "bar"
+my $foo = "bar"
 #+END_SRC
 
 #+BEGIN_SRC sh
