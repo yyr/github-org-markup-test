@@ -7,6 +7,11 @@
 my $foo = "bar"
 #+END_SRC
 
+#+name: source-with-lower-case
+#+begin_src perl
+my $foo = "bar"
+#+end_src
+
 #+BEGIN_SRC sh
 echo "foo"
 #+END_SRC
